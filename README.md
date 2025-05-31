@@ -27,14 +27,13 @@ The objective is to **predict the success of Falcon 9 first stage landings** usi
  ┃ ┣ EDA_Visualization.ipynb
  ┃ ┣ SQL_Analysis.ipynb
  ┃ ┣ Folium_Maps.ipynb
- ┃ ┣ Plotly_Dash_Dashboard.ipynb
  ┃ ┗ Predictive_Modeling.ipynb
  ┣ 📁 images/
  ┣ 📁 data/
- ┣ 📄 spacex-dash-app.py
- ┣ 📄 presentation.pdf
- ┣ 📄 README.md
- ┗ 📄 requirements.txt
+ ┣ 📄 spacex_dash_app.py
+ ┣ 📄 Predicting the Future of Space Launches: A Data Science Approach with SpaceX.pdf
+ ┗ 📄 README.md
+
 ```
 
 ## 🧰 Technologies Used
