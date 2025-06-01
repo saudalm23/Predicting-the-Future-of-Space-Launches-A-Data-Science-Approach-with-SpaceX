@@ -87,7 +87,7 @@ Access the interactive dashboard at `http://127.0.0.1:8050/`.
 ## 🎯 Project Presentation
 
 The final presentation is available here:  
-📄 [`presentation.pdf`](./presentation.pdf)
+📄 [`Predicting_the_Future_of_Space_Launches__A_Data_Science_Approach_with_SpaceX.pdf`](./Predicting_the_Future_of_Space_Launches__A_Data_Science_Approach_with_SpaceX.pdf)
 
 ## 🔗 License
 
